@@ -1,10 +1,7 @@
-import { Text } from "react-native";
+import Home from './src/screens/Home';
 
 export default function App(){
   return(
-    <>
-      <Text>LUcaian man</Text>
-      <Text>LUcaian man</Text>
-    </>
+    <Home />
   )
 }
